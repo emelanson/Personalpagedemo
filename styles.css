@@ -1,0 +1,19 @@
+body {
+    background: #242422;
+    font-family: monospace;
+    color: greenyellow;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+img {
+    border: 2rem double pink;
+    margin: 1em;
+}
